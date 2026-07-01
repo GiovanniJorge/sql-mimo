@@ -8,7 +8,6 @@ Códigos relacionados ao curso de SQL da Mimo — coleção de projetos prático
 
 ## Badges
 - Licença: MIT (ver arquivo LICENSE)
-- Linguagem: JavaScript
 
 ## Sumário
 - [Visão geral](#visão-geral)
