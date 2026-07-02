@@ -9,6 +9,7 @@ Códigos relacionados ao curso de SQL da Mimo — coleção de projetos prático
 
 ## Badges
 ![Licença](https://img.shields.io/github/license/GiovanniJorge/sql-mimo?style=flat-square)
+![Projetos](https://img.shields.io/badge/quantidade-2%20projetos-blue?style=flat-square)
 
 ## Sumário
 - [Visão geral](#visão-geral)
@@ -32,10 +33,9 @@ Top-level:
     ├── book-keeper/         # Projeto de gerenciamento de livros e autores
     │   ├── app.js           # Aplicação principal
     │   └── database.js      # Configuração e operações do banco de dados
-    ├── task-manager/        # Projeto de gerenciamento de tarefas
-    │   ├── app.js           # Aplicação principal
-    │   └── database.js      # Configuração e operações do banco de dados
-    └── ...                  # Outros projetos e exercícios de fixação desenvolvidos
+    └── task-manager/        # Projeto de gerenciamento de tarefas
+        ├── app.js           # Aplicação principal
+        └── database.js      # Configuração e operações do banco de dados
 ```
 
 ### Como se encaixa:
