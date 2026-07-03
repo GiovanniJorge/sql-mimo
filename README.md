@@ -27,6 +27,7 @@ Este repositório organiza pequenos projetos em JavaScript que demonstram concei
 Top-level:
 ```text
 ├── .gitattributes
+├── .gitignore
 ├── LICENSE                  # Licença MIT do projeto
 ├── README.md                # Este arquivo
 └── projetos-gerais/         # Projetos práticos de SQL com Node.js
